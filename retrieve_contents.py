@@ -38,7 +38,7 @@ def send_responses_to_line(responses):
     line = lazy_LINE(token=token)
 
     # Send message
-    line.send(f'\nTotal responses {responses}',
+    line.send(f'\nTotal responses: {responses} People 🍱🥳🎉',
               notification=True)
 
 
