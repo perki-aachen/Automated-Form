@@ -4,6 +4,9 @@ from apiclient import discovery
 from httplib2 import Http
 from oauth2client import client, file, tools
 
+from typing import Dict, List
+import re
+
 SCOPES = "https://www.googleapis.com/auth/forms.responses.readonly"
 DISCOVERY_DOC = "https://forms.googleapis.com/$discovery/rest?version=v1"
 
@@ -22,10 +25,22 @@ def main():
     result = service.forms().responses().list(formId=form_id).execute()
     total_responses = result["responses"].__len__()
 
-    send_responses_to_line(total_responses)
+    allergies = get_allergic(result)
+    send_responses_to_line(total_responses, allergies)
 
 
-def send_responses_to_line(responses):
+def get_allergic(response: Dict) -> List:
+    allergies = []
+    for res in response["responses"]:
+        if res["answers"].get("1b983dbc"):
+            answer = res["answers"]["1b983dbc"]["textAnswers"]["answers"][0]['value']
+            if answer not in allergies and re.match("^[a-zA-Z]", answer):
+                allergies.append(answer)
+
+    return allergies
+
+
+def send_responses_to_line(responses: Dict, allergies: List) -> None:
     from py_topping.general_use import lazy_LINE
 
     # Create Class
@@ -36,9 +51,9 @@ def send_responses_to_line(responses):
     # Pelayanan Umum Token
     # token = '6iveKXRAOsMumXqa2U1kfDKBmcqlTHDKLOYJfG8e12L'
     line = lazy_LINE(token=token)
-
+    allergies_text = '\n- '.join(map(str, allergies))
     # Send message
-    line.send(f'\nTotal responses: {responses} People 🍱🥳🎉',
+    line.send(f'\n\nTotal responses: {responses} People 🍱 🥳 🎉\n\nList of allergies:\n- {allergies_text}',
               notification=True)
 
 
