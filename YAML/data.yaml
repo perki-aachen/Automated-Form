@@ -1,0 +1,92 @@
+#Tokens for groups
+tokens:
+#        perki: xn0pKAYqDZMhmJ2p4KG5zHcjryVvF55GFaynXq6u35p
+#        test: iis96ihAcH7wPoTZQpBymGCcz1JTIVSv75USzXWBoYB
+        personal: S5nrLYbdJqT9cpWC3wpx8032LHgKDZ8YIyGQr2XVgIO # test
+        ben: KUhy7jqS60h3N0wdlHpPp39ygoY3OurUc5RydfZz871
+
+
+
+
+#Verse for groups
+morningverse:
+                0: 'Selamat pagi teman-teman! Disela kesibukanNya Yesus selalu memiliki waktu berelasi dengan Bapa(Mark 1:35). Bagaimana dengan kita?'
+                1: 'Selamat pagi teman-teman! Jangan lupakan persekutuan dengan Tuhan, karena Ia menanti kita untuk bersekutu denganNya! (Wahyu 3:20)'
+                2: 'Dipagi ini mari kita nyatakan kerinduan kita seperti nyanyian pengajaran bani Korah (Maz 42:2), Seperti rusa yang merindukan sungai berair, demikianlah jiwa kita merindukan Tuhan!'
+                3: 'Selamat pagi teman-teman, Tuhan Yesus sudah memberikan damai sejahteraNya bagi kita dan yang Ia berikan tidak seperti yang diberikan dunia ini. Hendaknya kita jangan gelisah dan gentar dalam menghadapi hari ini (Yoh 14:27)'
+                4: 'Selamat pagi! Marilah kita berkata seperti Daniel (Dan 2:20). Terpujilah nama Tuhan dari selama-lamanya sampai selama-lamanya, sebab dari pada Dialah hikmat dan kekuatan kita!'
+                5: 'Selamat pagi! Tuhanlah gembala kita yang menuntun kita di hari ini sehingga kita tidak akan pernah kekurangan (Maz 23:1)'
+                6: 'Selamat pagi! Sebelum memulai hari ini mari kita merenungkan bagaimana hari ini kita melakukan segala sesuatu di hari ini untuk Tuhan bukan untuk manusia (Kol 3:23)'
+                7: 'Selamat pagi teman-teman! Sudahkah kita seperti Ezra yang memiliki tekad yang kuat untuk meneliti dan melakukan Taurat TUHAN (Ez 7:10)? Mari kita mulai hari ini dengan meneliti dan melakukan firmanNya dalam hidup kita!'
+                8: 'Dalam memulai hari ini, hendaknya kita sadar dan berjaga-jaga karena hidup kita selalu bergumul melawan Iblis  yang berjalan keliling sama seperti singa yang mengaum-aum dan mencari orang yang dapat ditelannya, lawanlah ia dengan iman yang teguh (1 Pet 5:8)'
+                9: 'Selamat pagi teman-teman, hendaknya seperti ranting anggur yang bergantung pada pokoknya, kita terus bergantung pada Kristus dalam menjalani hari ini karena di luar Yesus kita tidak bisa berbuat apa-apa (Yoh 15:5)'
+                10: 'Hendaknya kita memulai hari ini dengan keyakinan bahwa TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepadaNya, apabila Ia jatuh tidaklah sampai tergeletak sebab TUHAN menopang tangannya! (Maz 37:23-24)'
+                11: 'Sudahkah kita merenungkan Firman Tuhan? Berbahagialah orang yang kesukaannya ialah Taurat TUHAN, dan yang merenungkan Taurat itu siang dan malam. Ia seperti pohon yang ditanam ditepi aliran air, menghasilkan buah dan tidak layu, apa saja yang diperbuatnya berhasil! (Maz 1:2-3)'
+                12: 'Selamat pagi! Sudahkah kita berkomunikasi dengan Tuhan? Ia lah yang menciptakan bumi dari ujung ke ujung, Ia tidak menjadi lelah dan menjadi lesu, tidak terduga pengertianNya! (Yes 40:28)'
+                13: 'Sebelum memulai hari ini hendaknya kita mau percaya kepada Tuhan dengan segenap hati dan jangan bersandar kepada pengertian kita sendiri! (Amsal 3:5)'
+                14: 'Sebelum memulai hari ini hendaknya kita mau mengakui Tuhan dalam segala laku kita, agar Ia meluruskan jalan kita (Amsal 3:6)'
+                15: 'Selamat pagi teman-teman, meskipun banyak perkara didalam hidup, hendaknya kita bisa menyerahkan segala perkara kepada Tuhan, karena Ia lah yang bisa memberikan kekuatan dalam pergumulan kita (Fil 4:13)'
+                16: 'Selamat pagi teman-teman, mari kita menjalani hari ini dengan satu keyakinan bahwa kasih setia Tuhan tidak pernah habis dan selalu baru tiap pagi. Sangat besar kesetiaanNya pada kita (Rat 3:22-23)'
+                17: 'Guten Morgen! Allah berkuasa melakukan segala sesuatu lebih dari yang kita doakan dan pikirkan didalam hidup kita. Mari kita memulai hari dengan keyakinan penyertaan Allah dalam hidup kita (Ef 3:20)'
+                18: 'Selamat pagi dan selamat menjalani hari! Seperti Allah menuntun Yosua, janganlah takut karena Tuhan berjalan menyertai kita dan tidak membiarkan ataupun meninggalkan kita. Berserahlah padaNya! (Ul 31:6)'
+                19: 'Selamat pagi teman-teman, hendaknya kita menjalani hari ini dengan menyerahkan segala kekuatiran kita kepada Tuhan, sebab Ia yang memelihara kita (1 Pet 5:7)'
+                20: 'Halo teman-teman, dalam memulai hari ini, hendaknya kita tidak kuatir tentang apapun juga, tetapi nyatakan segala keinginan kita kepada Allah dalam doa dan permohonan dengan ucapan syukur: Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiran kita dalam Kristus Yesus (Fil 4:6-7)'
+                21: 'Selamat pagi teman-teman, janganlah kita kuatir dalam menjalani hari ini sebab Yesus berkata: janganlah kuatir akan hidupmu, akan apa yang hendak kamu makan atau minum, dan janganlah kuatir pula akan tubuhmu, akan apa yang hendak kamu pakai. Bukankah hidup itu lebih penting dari pada makanan dan tubuh itu lebih penting dari pada pakaian? (Mat 6:25)'
+                22: 'Selamat pagi teman-teman, Yesus berkata, sebab itu janganlah kamu kuatir dan berkata apakah yang akan kami makan? Apakah yang akan kami minum? Apakah yang akan kami pakai? Semua itu dicari bangsa-bangsa yang tidak mengenal Allah. Akan tetapi Bapamu yang di sorga tahu, bahwa kamu memerlukan semuanya itu. Tetapi carilah dahulu Kerajaan Allah dan kebenarannya, maka semuanya itu akan ditambahkan kepadamu (Mat 6:31-33)'
+                23: 'Selamat pagi teman-teman, janganlah kuatir hari ini karena kekuatiran dalam hati membungkukkan orang, tetapi perkataan yang baik menggembirakan dia (Amsal 12:25)'
+                24: 'Selamat pagi teman-teman, janganlah takut dalam menjalani hari ini karena Tuhan menyertai kita, jangan bimbang sebab Ia lah Allah,  Ia akan meneguhkan, bahkan akan menolong kita, Ia akan memegang kita dengan tangan kanan-Nya yang membawa kemenangan. (Yes 41:10)'
+                25: 'Halo teman-teman, mari memulai hari ini dengan hati yang gembira karena hati yang gembira membuat muka berseri-seri, tetapi kepedihan hati mematahkan semangat (Amsal 15:13)'
+                26: 'Selamat pagi temans, seperti pemazmur berkata, dalam pikiran dan pergumulan yang bertambah banyak, maka penghiburan Tuhan menyenangkan jiwa kita (Maz 94:19)'
+                27: 'Selamat pagi temans, hanya pada Allah saja kiranya kita tenang, sebab dari pada-Nyalah harapan kita.(Mazmur 62:5)'
+                28: 'Selamat pagi teman-teman, dalam menjalani hari ini hendaknya kita seperti pemazmur yang berkata: kembalilah tenang, hai jiwaku, sebab TUHAN telah berbuat baik kepada kita (Mazmur 116:7)'
+                29: 'Good Morning! Bagaimana kita memegang kebenaran Injil? Sebab pemberitaan tentang salib memang adalah kebodohan bagi mereka yang akan binasa, tetapi bagi kita yang diselamatkan pemberitaan itu adalah kekuatan Allah (1 Kor 1:18)'
+                30: 'Selamat pagi teman, jikalau kita hanya dalam hidup ini saja menaruh pengharapan pada Kristus, maka kita adalah orang-orang yang paling malang dari segala manusia (1 Kor 15:19). Pengharapan kita pada Kristus bukan hanya untuk hidup dalam dunia ini saja, namun juga mengenai kekekalan dan hidup setelah kematian'
+                31: 'Pagi! Mari kita bersuka cita menjalani hari ini, karena Allah telah memberikan keselamatan dalam Kristus Yesus. Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.(Yoh 3:16)'
+                32: 'Selamat pagi teman, mari kita jalani hidup ini dengan mengucap syukur, sebab kematian sudah dikalahkan oleh Tuhan Yesus. Jawab Yesus: Akulah kebangkitan dan hidup; barangsiapa percaya kepada-Ku, ia akan hidup walaupun ia sudah mati (Yoh 11:25)'
+                33: 'Selamat pagi teman, sudahkah membaca firman Tuhan? Perkataannya adalah perkataan yang kekal! Langit dan bumi akan berlalu, tetapi perkataan-Ku tidak akan berlalu (Luk 21:33)'
+                34: 'Selamat pagi teman-teman, mari kita membaca firman Tuhan dan melakukannya karena berbahagialah orang-orang yang hidupnya tidak bercela, yang hidup menurut Taurat TUHAN (Maz 119:1)' 
+                
+
+
+
+
+
+eveningverse: 
+                0: 'Dunia bisa mengecewakan, hari ini mungkin kita punya kekecewaan dan kegagalan. Tapi Tuhan tetap setia (2 Tim 2:13). Mari datang dan nyatakan keluh kesah kita kepadaNya!'
+                1: 'Mari kita melihat kembali hari kita hari ini, dalam hal apa yang kita bisa syukuri dan menghitung hari kita agar kita beroleh hati yang bijaksana (Maz 90:12)'
+                2: 'Mari kita mengucap syukur akan hari ini, sebab itulah yang dikehendaki Allah didalam Kristus bagi kita (1 Tes 5:18)'
+                3: 'Bagaimanapun hari kita, Allah bekerja dalam segala sesuatu untuk mendatangkan kebaikan bagi kita jika kita mengasihi Dia, yang terpanggil dalam rencana Allah (Roma 8:28)'
+                4: 'Meskipun hari kita mengecewakan, ataupun tidak menyenangkan, mari kita berkata seperti nabi Habakuk (Hab 3:17-18). Aku akan bersuka cita selalu sebab Engkau Tuhan Allah penyelamatku.'
+                5: 'Bagaimanapun hari ini, kita tahu bahwa dalam persekutuan dengan Tuhan jerih payah kita tidak sia-sia (1 Kor 15:58)'
+                6: 'Apakah kita sudah membenci dosa dan meninggalkannya? Tuhan menghendaki kita kudus karena Ia adalah Tuhan yang kudus dan tidak bisa bersatu dengan dosa (Imamat 19:2)'
+                7: 'Tuhan Yesus menitipkan suatu amanat bagi kita agar kita menjadikan murid dan menjadi saksiNya sampai ke ujung bumi, apakah kita sudah melakukan kehendakNya ataukah hanya memikirkan hidup kita sendiri? (Mat 28:19-20)'
+                8: 'Janganlah orang bijaksana bermegah karena kebijaksanaannya, janganlah orang kuat bermegah karena kekuatannya, janganlah orang kaya bermegah karena kekayaannya, tetapi siapa yang mau bermegah, baiklah bermegah karena yang berikut: bahwa Ia memahami dan mengenal TUHAN, yang menunjukkan kasih setia, keadilan, dan kebenaran di bumi! (Yer 9:23) '
+                9: 'Halo teman-teman, bagaimana dengan hari ini?Tuhanlah yang menyertai hidup orang yang berkenan kepadaNya. Seperti pemazmur, tidak pernah ia melihat orang benar ditinggalkanNya (Maz 37:25)'
+                10: 'Halo teman-teman, bagaimana hari ini? Kecaplah dan lihat lah kebaikan TUHAN itu! Berbahagialah orang yang berlindung pada-Nya! (Maz 34:9)'
+                11: 'Bagaimana hari ini teman-teman? Allah itu baik! Seperti permazmur yang menyatakan: singa muda merana kelaparan, tetapi orang yang mencari TUHAN, tidak kekurangan sesuatu pun yang baik! (Maz 34:11)'
+                12: 'Seperti rancangan Allah pada bangsa Israel di pembuangan, Ia juga mengetahui rancangan mengenai hidup kita, rancangan damai sejahtera dan bukan kecelakaan, untuk memberikan kepada kita hari depan yang penuh harapan (Yer 29:11)'
+                13: 'Bagaimana hari ini? Jikalau kita merasa Tuhan mendidik kita, mengucap syukurlah dan janganlah kita bosan akan peringatanNya. Karena Ia memberikan ajaran kepada yang dikasihiNya (Amsal 3:11-12)'
+                14: 'Bersyukurlah kepada TUHAN , sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya! (Maz 107:1)'
+                15: 'Tuhan Yesus sudah memberikan nyawaNya bagi kita, hendaknya kita selalu bersyukur atas hari-hari yang kita lewati (Yoh 15:13)'
+                16: 'Tuhan sudah menyertai kita hari ini. Ia lah sumber pengharapan yang memenuhi kita dengan sukacita dan damai sejahtera (Roma 15:13)'
+                17: 'Dia memberi kekuatan kepada yang lelah dan menambah semangat kepada yang tiada berdaya. Orang-orang muda menjadi lelah dan lesu dan teruna-teruna jatuh tersandung, tetapi orang yang menanti-nantikan TUHAN mendapat kekuatan baru, mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah (Yes 40:31)'
+                18: 'Dalam pergumulan kita, hendaklah kita sama seperti pemazmur yang berkata (Maz 42:12): Mengapa engkau tertekan, hai jiwaku, dan mengapa engkau gelisah didalam diriku? Berharaplah kepada Allah! Sebab aku bersyukur lagi kepada-Nya, penolongku dan Allahku!'
+                19: 'Bagaimanapun keadaan kita, hendaknya kita seperti pemazmur yang bersorak-sorak dan bersukacita karena kasih setia Tuhan, sebab Ia telah menilik sengsara dan memperhatikan kesesakan jiwa kita (Maz 31:8)'
+                20: 'Tuhan memperhatikan pergumulan kita, air mata kita Ia perhatikan dan taruh dalam pundi-pundiNya (Maz 56:9). Mari menyerahkan segala pergumulan kita kepada Tuhan'
+                21: 'Dalam kegentaran menjalani hidup ini, hendaknya kita seperti pemazmur yang menyatakan: Aku telah mencari TUHAN, lalu Ia menjawab aku, dan melepaskan aku dari segala kegentaranku. (Maz 34:5)'
+                22: 'Carilah TUHAN selama Ia berkenan ditemui; berserulah kepada-Nya selama Ia dekat! Baiklah orang fasik meninggalkan jalannya, dan orang jahat meninggalkan rancangannya; baiklah ia kembali kepada TUHAN, maka Dia akan mengasihaninya, dan kepada Allah kita, sebab Ia memberi pengampunan dengan limpahnya. (Yes 55:6-7)'
+                23: 'Apabila orang-orang benar itu berseru-seru, maka TUHAN mendengar, dan melepaskan mereka dari segala kesesakannya. (Maz 34:18)'
+                24: 'Halo teman-teman, serahkanlah kuatirmu kepada TUHAN, maka Ia akan memelihara engkau! Tidak untuk selama-lamanya dibiarkan-Nya orang benar itu goyah. (Maz 55:23)'
+                25: 'TUHAN itu baik; Ia adalah tempat pengungsian pada waktu kesusahan; Ia mengenal orang-orang yang berlindung kepada-Nya. (Nahum 1:7)'
+                26: 'Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga Bukankah kamu jauh melebihi burung-burung itu? (Mat 6:26)'
+                27: 'Sebab itu janganlah kamu kuatir akan hari besok, karena hari besok mempunyai kesusahannya sendiri. Kesusahan sehari cukuplah untuk sehari.(Mat 6:34)'
+                28: 'Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu. Pikullah kuk yang Kupasang dan belajarlah pada-Ku, karena Aku lemah lembut dan rendah hati dan jiwamu akan mendapat ketenangan. (Mat 11:28-29)'
+                29: 'Dalam pergumulan menjalani hidup ini, hendaknya kita bisa berkata seperti Paulus : Sebab penderitaan ringan yang sekarang ini, mengerjakan bagi kami kemuliaan kekal yang melebihi segala-galanya, jauh lebih besar dari pada penderitaan kami. (2 Kor 4:17)'
+                30: 'Halo teman-teman, buanglah kesedihan dari hatimu sebab hati yang gembira adalah obat yang manjur, tetapi semangat yang patah mengeringkan tulang (Amsal 17:22)'
+                31: 'Dalam pergumulan hidup kita hendaklah kita berserah pada Tuhan, karena penghiburan ada dalam Tuhan. Berbahagialah orang yang berdukacita karena mereka akan dihibur(Matius 5:4)'
+                32: 'Selamat malam teman-teman! Sudahkah kita menerima karya Tuhan Yesus dan mengalami kelahiran kembali? "Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan kembali, ia tidak dapat melihat Kerajaan Allah." (Yoh 3:3)'
+
+
+
+
+
