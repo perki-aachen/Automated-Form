@@ -11,7 +11,7 @@ from apiclient import discovery
 from httplib2 import Http
 from oauth2client import client, file, tools
 
-from datetime import timedelta
+import datetime
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/drive']
@@ -19,7 +19,7 @@ DISCOVERY_DOC = "https://forms.googleapis.com/$discovery/rest?version=v1"
 
 
 def get_next_saturday(start_date, weekday):
-    time = timedelta((7 + weekday - start_date.weekday()) % 7)
+    time = datetime.timedelta((7 + weekday - start_date.weekday()) % 7)
     saturdate = start_date + time
 
     return saturdate
@@ -96,11 +96,21 @@ def send_message_to_line(uri):
     # Perki Aachen Token
     token = 'tR5VANICCGGEcH2Vg9zj8CacFUxxdSORvp1OZPveapV'
     # Mita Token
-    # token = '6iveKXRAOsMumXqa2U1kfDKBmcqlTHDKLOYJfG8e12L'
+    #token = '6iveKXRAOsMumXqa2U1kfDKBmcqlTHDKLOYJfG8e12L'
     line = lazy_LINE(token=token)
 
+    hour = datetime.datetime.now().hour
+    if 0 <= hour < 11:
+        greeting = 'pagi'
+    elif 11 <= hour <= 15:
+        greeting = 'siang'
+    elif 15 < hour < 18:
+        greeting = 'sore'
+    else:
+        greeting = 'malam'
+
     # Send message
-    line.send(f'\nShalom dan selamat pagi,\n\nbagi teman-teman yang ingin datang ke ibadah minggu ini bisa mengisi '
+    line.send(f'\nShalom dan selamat {greeting},\n\nbagi teman-teman yang ingin datang ke ibadah minggu ini bisa mengisi '
               f'google form di bawah ini. Selamat beraktivitas, Tuhan Yesus memberkati! ❤️\n\n{uri}',
               notification=True)
 
