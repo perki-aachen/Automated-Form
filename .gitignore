@@ -312,5 +312,7 @@ cython_debug/
 
 /package
 
-./token.json
+.vscode
+client_secrets.json
+token.json
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,pycharm
