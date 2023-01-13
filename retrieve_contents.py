@@ -21,7 +21,7 @@ def main():
         Http()), discoveryServiceUrl=DISCOVERY_DOC, static_discovery=False)
 
     # Prints the responses of your specified form:
-    form_id = '16knQAqFlWQEm7M4f2OHLkqATgZL5r7SJekaTpAsrA3Q'
+    form_id = '1kwBxazzw38gog8XP9WnII7E1xD9st3vZTxFemT2qp-Q'
     result = service.forms().responses().list(formId=form_id).execute()
     total_responses = result["responses"].__len__()
 
@@ -50,6 +50,8 @@ def send_responses_to_line(responses: Dict, allergies: List) -> None:
     # token = 'tR5VANICCGGEcH2Vg9zj8CacFUxxdSORvp1OZPveapV'
     # Pelayanan Umum Token
     # token = '6iveKXRAOsMumXqa2U1kfDKBmcqlTHDKLOYJfG8e12L'
+    # Group Masak
+    # token = 'CBCOw0nqUJcYYnkYbnYeoxJIRRWQ1ExOtCixtjrlq7m'
     line = lazy_LINE(token=token)
     allergies_text = '\n- '.join(map(str, allergies))
     # Send message
